@@ -1,0 +1,57 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin:0;
+font-size: 562%;
+  font-family: 'Sacramento', cursive;
+  margin-top: 50px;
+  color: #3EDBF0;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+
+}
+h3
+{
+  font-family: 'Castoro', serif;
+}
+
+.top-container
+{
+  background-color: #C0FEFC;
+  padding:20px;
+}
+.skills{
+  background-color: #EDEEF7;
+}
+.Web{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position:absolute;
+}
+.top-cloud{
+  position:relative;
+  left:200px;
+}
+.web{
+  font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+color: #3EDBF0;
+font-weight: normal;
+line-height: 2;
+
+}
+.bottom-container{
+  background-color: #B8B5FF;
+}
+.contact-me{
+  background-color: #B8B5FF;
+}
+.Getintouch{
+  color: #161D6F;
+}
